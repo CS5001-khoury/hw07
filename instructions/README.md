@@ -59,12 +59,15 @@ First you will need to make sure git is installed on your computer, though often
 To clone using VS Code, open a new window and click "Clone Git Repository" and paste in the URL from the "Code" button on the [main page](../) of the repository. 
 
 ![Code Button](code_button.png)
+
 The button to find the repository URL is the green code button. 
 
 ![VS Code Clone Button](vscode_git.png)
+
 If you have VS Code, for PyCharm it is "GET FROM VCS" in the new project window.
 
 ![VS Code Clone Dialog](vscode_repo_url.png)
+
 Just because the dialog is easy to  miss. 
 
 Doing this will copy the entire repo including instructions to your local machine! You will find there are multiple extensions you may want to install as you use them. Feel free to discuss them in teams Tips, Tricks, and Resources!
