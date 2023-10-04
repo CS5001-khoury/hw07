@@ -61,7 +61,7 @@ Remember, you can grab individual words from a string using the same syntax as a
 ```python
 line = "Aloha! World"
 
-for word in line:
+for word in line.split(): #splits via spaces/whitespace, returns a list of words
     print(word)
 ```
 prints: 
