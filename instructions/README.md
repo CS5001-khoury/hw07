@@ -130,7 +130,13 @@ MG - Manually graded
 For manually graded elements, we only guarantee time to submit for a regrade IF you submit by the DUE DATE. Submitting late may mean it isn't possible for the MG to be graded before the AVAILABLE BY DATE, removing any windows for your to resubmit in time. While it will be graded, it is always best to submit by the due date, so you have full opportunity to improve your grade.
 
 ## 📚 Resources
-
+* [Python Recursion](https://realpython.com/python-thinking-recursively/)
+* [Python For Loops](https://realpython.com/python-for-loop/)
+* [Python Doctest](https://docs.python.org/3/library/doctest.html)
+* [Python Doctest Tutorial](https://pymotw.com/3/doctest/)
+* [Python Doctest Tutorial 2](https://realpython.com/python-doctest/)
+* [Getting Started with Git](https://docs.github.com/en/get-started/getting-started-with-git) - note: you can clone a repo without all the features of git, so don't worry so much on this just yet. 
+  
 ### Using Git To Copy The Code
 
 Did you know it is possible to "clone" the entire git repository to your computer? This is a great way to get the code, and then you can use VS Code or PyCharm to edit the files.
