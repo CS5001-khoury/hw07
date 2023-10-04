@@ -23,7 +23,7 @@ The three functions listed in word_lib.py are about looking at a string (technic
 
 > Docstring Examples  
 > Pay particular attention to the docstring examples. Arguably, these are NOT complete, so you may
-> want to add some other examples using the same format to help you understand the edge cases. (see [Testing](#testing)
+> want to add some other examples using the same format to help you understand the edge cases. (see [Testing](#testing))
 
 # Part 2: doc_stats_builder.py
 
