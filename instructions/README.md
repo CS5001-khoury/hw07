@@ -9,7 +9,7 @@ For this assignment, there are four files provided to you.
 * [word_lib.py](../word_lib.py) - This file contains three functions that gives you information about a word. The function signatures (def, and docstring) are provided, but you will need to implement the function bodies. While they can be implemented with loops, we are asking you to implement them recursively to practice recursion.
 * [doc_stats_builder.py](../doc_stats_builder.py) - This file contains the function that builds various statistics about a "document" (a documents is a list of text strings). The function signatures (def, and docstring) are provided, but you will need to implement the function bodies. In this case, for-in loops are the best way to implement these functions, and we are encouraging you to use them to practice for-in loops. 
 
-While it is optional, you may want to consider using Git to copy the code to your computer. See the [Resources](#resources) section for more information. Throughout the rest of the semester are going to build up to you using github, as that is the standard for later courses and the industry standard. Right now, it is optional! 
+While it is optional, you may want to consider using Git to copy the code to your computer. See the [Resources](#using-git-to-copy-the-code) section for more information. Throughout the rest of the semester are going to build up to you using github, as that is the standard for later courses and the industry standard. Right now, it is optional! 
 
 ## Part 1: word_lib.py
 
