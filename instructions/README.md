@@ -111,14 +111,24 @@ For this assignment, you will submit:
 While we provide tests, reminder, you should test your own code before submitting!
 
 1. Learning (AG)
-   * 
+   * word_lib - palindrome works on easy conditions
+   * word_lib - count vowels works on easy conditions
+   * word_lib - clean_word works on easy cases
 2. Approaching  (AG)
-   * 
+   * word_lib - palindrome works on edge cases
+   * word_lib - count vowels works on edge cases
+   * word_lib - clean_word works on edge cases
+   * doc_stats_builder - line_count works
+   * doc_stats_builder - word_count works
 3. Meets  (AG)
-   * 
+   * doc_stats_builder - vowel_count works
+   * doc_stats_builder - word palindromes works
+   * doc_stats_builder - sentence palindromes works
 4. Exceeds  (MG)
    * README.md questions answered
    * Proper comments and docstrings throughout code
+   * Uses Recursion for word_lib, and for-in loops for doc_stats_builder
+   * Test files provided / evidence of testing and running the program
   
 
 AG - Auto-graded  
