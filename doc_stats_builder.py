@@ -45,9 +45,13 @@ def get_number_lines(lines: tuple) -> int:
 def get_number_words(lines: tuple) -> int:
     """
     Gets the number of words in the document.
+    Note, make sure to clean the words before counting them,
+    and an 'empty' word should not be counted.
 
     Examples:
         >>> get_number_words(('Hello', 'World'))
+        2
+        >>> get_number_words(('Aloha!', '-', 'World'))
         2
 
     Args:
